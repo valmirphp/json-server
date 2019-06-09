@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "Valmir",
+      "email": "updated-valmir.php@gmail.com",
+      "password": "123456",
+      "id": 4
+    },
+    {
+      "name": "Valmir",
+      "email": "valmir.php@gmail.com",
+      "password": "123456",
+      "id": 5
+    }
+  ]
+}
