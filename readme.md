@@ -1,5 +1,7 @@
 # JSON-SERVER With Authorization JWT
 
+Sample adapter https://github.com/typicode/json-server ...
+
 ## Run dev
 
 ```
